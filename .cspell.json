@@ -1,0 +1,12 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": ["useState", "useEffect", "username", "SearchUser", "avatar","noopener","noreferrer","TTFB"]
+  "ignorePaths": [
+    "node_modules",
+    "build",
+    "dist"
+  ],
+  "enableGlob": true,
+  "allowCompoundWords": true
+}npm run spellcheck
